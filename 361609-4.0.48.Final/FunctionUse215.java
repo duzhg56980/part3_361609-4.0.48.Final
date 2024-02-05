@@ -1,0 +1,6 @@
+import io.netty.handler.ssl.OpenSsl;
+public class FunctionUse215 {
+public void funcUse() {
+OpenSsl openssl = new OpenSsl();
+}
+}
